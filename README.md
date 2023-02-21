@@ -2,7 +2,7 @@
 
 1. **Course Overview** [[GITHUB][branch.gh.main]]
 2. Working with Reference Types and Nulls [[NOTE](2-WorkingWithReferenceTypesAndNulls.note.md)]
-3. Checking for Null Using Annotations [[GITHUB][branch.gh.p3]]
+3. Checking for Null Using Annotations [[NOTE](3-CheckingForNullUsingAnnotations.note.md)]
 4. Using the Null Object Pattern [[GITHUB][branch.gh.p4]]
 5. Using Optional Instead of Null [[GITHUB][branch.gh.p5]]
 
