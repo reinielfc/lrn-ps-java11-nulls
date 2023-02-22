@@ -4,7 +4,7 @@
 2. Working with Reference Types and Nulls [[NOTE](2-WorkingWithReferenceTypesAndNulls.note.md)]
 3. Checking for Null Using Annotations [[NOTE](3-CheckingForNullUsingAnnotations.note.md)]
 4. Using the Null Object Pattern [[NOTE](4-UsingTheNullObjectPattern.note.md)] [[GITHUB][branch.gh.p4]]
-5. Using Optional Instead of Null [[GITHUB][branch.gh.p5]]
+5. Using Optional Instead of Null [[NOTE](5-UsingOptionalInsteadOfNull.note.md)] [[GITHUB][branch.gh.p5]]
 
 [url.course]: https://app.pluralsight.com/library/courses/working-nulls-java
 [branch.gh.main]: https://github.com/reinielfc/llrn-ps-java11-nulls/tree/main
