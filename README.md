@@ -1,4 +1,4 @@
-# Learn With Pluralsight: [Using Java 8 Streams to Process and Analyze Data in Memory][url.course]
+# Learn With Pluralsight: [Working with Nulls in Java 11][url.course]
 
 1. Course Overview [[GITHUB][branch.gh.main]]
 2. Working with Reference Types and Nulls [[NOTE](2-WorkingWithReferenceTypesAndNulls.note.md)]
