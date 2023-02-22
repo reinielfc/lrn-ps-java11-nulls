@@ -7,7 +7,7 @@
 5. Using Optional Instead of Null [[NOTE](5-UsingOptionalInsteadOfNull.note.md)] [[GITHUB][branch.gh.p5]]
 
 [url.course]: https://app.pluralsight.com/library/courses/working-nulls-java
-[branch.gh.main]: https://github.com/reinielfc/llrn-ps-java11-nulls/tree/main
+[branch.gh.main]: https://github.com/reinielfc/lrn-ps-java11-nulls/tree/main
 [branch.gh.p1]: https://github.com/reinielfc/lrn-ps-java11-nulls/tree/1-CourseOverview
 [branch.gh.p2]: https://github.com/reinielfc/lrn-ps-java11-nulls/tree/2-WorkingWithReferenceTypesAndNulls
 [branch.gh.p3]: https://github.com/reinielfc/lrn-ps-java11-nulls/tree/3-CheckingForNullUsingAnnotations
