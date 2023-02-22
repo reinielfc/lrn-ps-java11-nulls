@@ -15,7 +15,9 @@ public class BookService {
         List<String> titlesWithReadingLevel = new ArrayList<>();
 
         books.stream()
-                .map(book -> book.getTitle() + " - " + book.getReadingLevel())
+                .map(book -> book.getReadingLevel()
+                        .map(readingLevel -> book.getTitle() + " - " + readingLevel)
+                        .orElse(book.getTitle() + " - " + "No reading level set"))
                 .collect(Collectors.toCollection(() -> titlesWithReadingLevel));
 
         return titlesWithReadingLevel;

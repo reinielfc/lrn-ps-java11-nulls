@@ -1,5 +1,7 @@
 package model;
 
+import java.util.Optional;
+
 public class Book {
     private Integer id;
     private Integer authorId;
@@ -29,10 +31,8 @@ public class Book {
         this.authorId = authorId;
     }
 
-    public ReadingLevel getReadingLevel() {
-        return readingLevel != null
-                ? readingLevel
-                : NullReadingLevel.getInstance();
+    public Optional<ReadingLevel> getReadingLevel() {
+        return Optional.ofNullable(readingLevel);
     }
 
     public void setReadingLevel(ReadingLevel readingLevel) {
